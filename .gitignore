@@ -1,0 +1,7 @@
+# Node.js module directory
+node_modules/
+
+# Webpack
+public/bundle.js*
+public/*.ttf
+public/*.png
